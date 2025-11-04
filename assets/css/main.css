@@ -3399,3 +3399,7 @@ article.work-item {
     height: auto;
     z-index: 2;
 }
+p strong {
+  color: #000000;
+  font-weight: 600;
+}
